@@ -88,6 +88,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
 
 ## <img src="../img/orga.png" height="50px"> Organizational duties and activities
+- Invited panel member for the *The Next Generation of Multimedia Search and Recommendation* at ACM Multimedia 2021
 - Invited talk ([slides](../documents/FairnessWorkshop2021-Hauff.pdf)) at the [Sim4IR workshop](https://sim4ir.org/) (July 2021)
 - Invited talk at the Algorithmic Targeted Communication workshop (June 2021) 
 - Invited talk ([slides](../documents/FairnessWorkshop2021-Hauff.pdf)) at the BBC Data Dates Series (May 2021)
