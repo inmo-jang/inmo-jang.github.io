@@ -5,6 +5,7 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## <img src="../img/news.png" height="50px"> News
+- Updated my [web technology lecture transcripts](https://github.com/chauff/cse1500-web-transcripts) for the upcoming edition.
 - <img src="../img/spotify.png" height="30px"> Between August 2021 and July 2022 I work as *senior research scientist* at Spotify (industry sabbatical).
 - <img src="../img/fireworks.png" height="30px"> Three works made it into  ICTIR 2021. Led by three PhD students from my team, Nirmal Roy (interaction models for IR), Peide Zhu (question generation), and Sara Salimzadeh
  (entity cards - this work got an honorable mention <img src="../img/honorable.png" height="30px">). Supported by David Maxwell and Arthur Câmara.
