@@ -8,7 +8,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2022
 
 <img src="../img/conference-paper.png" height="20px"> 
-Gustavo Penha, Arthur Câmara and Claudia Hauff. *Evaluating the Robustness of Retrieval Pipelines with Query Variation Generators*, accepted at ECIR 2022.
+Gustavo Penha, Arthur Câmara and Claudia Hauff. *Evaluating the Robustness of Retrieval Pipelines with Query Variation Generators*, accepted at ECIR 2022. [[Preprint&#8594;]](https://arxiv.org/abs/2111.13057)
 
 <img src="../img/conference-paper.png" height="20px"> 
 Arthur Câmara, David Maxwell and Claudia Hauff. *Searching, Learning, and Subtopic Ordering: A Simulated Analysis*, accepted at ECIR 2022.
