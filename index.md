@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Associate Professor, TU Delft
+title:  Associate Prof., TU Delft
 subtitle: *on sabbatical @Spotify*
 ---
 
