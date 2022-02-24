@@ -5,6 +5,7 @@ subtitle: *on sabbatical @Spotify*
 ---
 
 ## <img src="../img/news.png" height="50px"> News
+- One more PhD defense to celebrate in my lab: Felipe Moraes defended his PhD thesis on the topic of [Examining the Effectiveness of Collaborative Search Engines](https://doi.org/10.4233/uuid:9f8f9ffc-c3d9-4583-8903-25889233a95b) in February 2022
 - <img src="../img/spotify.png" height="30px"> Between August 2021 and July 2022 I work as *senior research scientist* at Spotify (industry sabbatical).
 - <img src="../img/fireworks.png" height="30px"> Three works made it into  ICTIR 2021. Led by three PhD students from my team, Nirmal Roy (interaction models for IR), Peide Zhu (question generation), and Sara Salimzadeh
  (entity cards - this work got an honorable mention <img src="../img/honorable.png" height="30px">). Supported by David Maxwell and Arthur Câmara.
