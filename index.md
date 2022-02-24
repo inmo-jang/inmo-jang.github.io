@@ -52,7 +52,6 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 
 ## Current members of my lab
 - David Maxwell (postdoc, since 03/2020)
-- [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (since 2017)
 - Arthur Barbosa Câmara (PhD student, since 11/2018)
 - [Gustavo Penha](https://guzpenha.github.io/guzblog/) (PhD student, since 11/2018)
 - [Nirmal Roy](https://roynirmal.github.io/) (PhD student, since 09/2019)
@@ -60,11 +59,12 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Peide Zhu (PhD student, since 11/2019)
 
 ## Past members of my lab
-- PhD student [Dan Davis](https://dan7davis.github.io/) graduated in 2019 on the topic of [Large-Scale Learning Analytics: Modeling Learner Behavior & Improving Learning Outcomes in Massive Open Online Courses](https://doi.org/10.4233/uuid:b8be8302-84a0-4b29-a6fe-761a3f872420)
-- PhD student [Guanliang Chen](https://angusglchen.github.io/) graduated in 2019 on the topic of [MOOC Analytics: Learner Modeling and Content Generation](https://doi.org/10.4233/uuid:dd213d9b-e621-442d-8d11-4cd8b6e19635)
-- PhD student [Yue Zhao](http://www.wis.ewi.tudelft.nl/zhao/) graduated in 2019 on the topic of [Learning Analytics Technology to Understand Learner Behavioral Engagement in MOOCs](http://resolver.tudelft.nl/uuid:2aff1a7e-45eb-4d10-9944-8e06ef12b9fa)
+- Felipe Moraes graduated in 2022 with a PhD thesis on [Examining the Effectiveness of Collaborative Search Engines](https://doi.org/10.4233/uuid:9f8f9ffc-c3d9-4583-8903-25889233a95b).
+- Dan Davis graduated in 2019 with a PhD thesis on the topic of [Large-Scale Learning Analytics: Modeling Learner Behavior & Improving Learning Outcomes in Massive Open Online Courses](https://doi.org/10.4233/uuid:b8be8302-84a0-4b29-a6fe-761a3f872420)
+- [Guanliang Chen](https://angusglchen.github.io/) graduated in 2019 with a PhD thesis on the topic of [MOOC Analytics: Learner Modeling and Content Generation](https://doi.org/10.4233/uuid:dd213d9b-e621-442d-8d11-4cd8b6e19635)
+- Yue Zhao graduated with a PhD in 2019 on the topic of [Learning Analytics Technology to Understand Learner Behavioral Engagement in MOOCs](http://resolver.tudelft.nl/uuid:2aff1a7e-45eb-4d10-9944-8e06ef12b9fa)
 - Research engineer Mónica Marrero (2017-18)
-- PhD student [Ke Tao](https://scholar.google.com/citations?user=KkPTloIAAAAJ&hl=en) graduated in 2014 on the topic of [Social Web Data Analytics: Relevance, Redundancy, Diversity](https://doi.org/10.4233/uuid:1af94380-1414-4497-bfc6-a67b213de050)
+- Ke Tao graduated with a PhD in 2014 on the topic of [Social Web Data Analytics: Relevance, Redundancy, Diversity](https://doi.org/10.4233/uuid:1af94380-1414-4497-bfc6-a67b213de050)
 - Postdoc Dimitrios Bountouridis worked on fairness in the news recommender domain (2018-19)
 - Research engineer Manuel Valle Torre (sponsored by Delft Data Science, 2019-2021)
 
