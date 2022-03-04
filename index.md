@@ -6,7 +6,7 @@ subtitle: *on sabbatical @Spotify*
 
 ## <img src="../img/news.png" height="50px"> News
 - One more PhD defense to celebrate in my lab: Felipe Moraes defended his PhD thesis on the topic of [Examining the Effectiveness of Collaborative Search Engines](https://doi.org/10.4233/uuid:9f8f9ffc-c3d9-4583-8903-25889233a95b) in February 2022
-- <img src="../img/spotify.png" height="30px"> Between August 2021 and July 2022 I work as *senior research scientist* at Spotify (industry sabbatical).
+- <img src="../img/spotify.png" height="30px"> Starting from August 2021 I work at Spotify, with a part-time appointment at TU Delft.
 - <img src="../img/fireworks.png" height="30px"> Three works made it into  ICTIR 2021. Led by three PhD students from my team, Nirmal Roy (interaction models for IR), Peide Zhu (question generation), and Sara Salimzadeh
  (entity cards - this work got an honorable mention <img src="../img/honorable.png" height="30px">). Supported by David Maxwell and Arthur Câmara.
 - <img src="../img/microphone.png" height="30px"> I gave a talk (04/2021) at the UMass CIIR Talk Series and presented my team's [Search As Learning research](https://docs.google.com/presentation/d/e/2PACX-1vTngMwaUeToWKfFSwCS00pFadyKoukiLwkf0SzgRIkaV8lkgJFLL5p_Dmmo-G7YKnsByx0vwtAbq6aT/pub?start=false&loop=false&delayms=3000).
@@ -18,7 +18,7 @@ subtitle: *on sabbatical @Spotify*
 ## <img src="../img/career.png" height="50px"> My career
 For a brief and compact overview, take a look at my 1-page [CV](../documents/Hauff_shortCV.pdf). 
 
-I have been working as staff member (first as Assistant Professor and since 2018 as Associate Professor) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
+I joined Spotify in August 2021, while maintaining a part-time faculty position at TU Delft. I have been working as staff member (first as Assistant Professor and since 2018 as Associate Professor) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
  [Delft University of Technology](http://www.tudelft.nl/) since 2013. Between 2011 and 2012 I was a Postdoc in the same group.
 I received my PhD in 2010 from the [University of Twente](https://www.utwente.nl/), where I worked in the 
 [Human Media Interaction group](http://hmi.ewi.utwente.nl/). 
@@ -29,7 +29,7 @@ including query performance prediction (the topic of [my PhD thesis](../document
 social search, computational social science, 
 learning to search and IR for specific user groups.
 
-I have diverse research interests and am always happy to dive into a new area. Together with a number of PhD students I am currently focusing on **how to incorporate search into the human learning process at scale**, **collaborative search**, and **conversational search**. For the latter, I am also maintaining a [list of conversational venues and datasets](https://chauff.github.io/conversationalIR/). In 2016 and 2017 I received two prestigious personal grants from the Netherlands Organisation for Scientific Research (NWO) with a total funding of more than 1 million euros; this translates into 4-5 PhD/postdoc positions in the developing "search as learning" research area. Take a look at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) I co-organized on the topic to get an idea of what it is about. In the past few years, in addition to IR, I have also been active in the area of learning analytics (data science applied to large-scale educational data traces).
+I have diverse research interests and am always happy to dive into a new area. Together with a number of PhD students at TU Delft I am currently focusing on **how to incorporate search into the human learning process at scale**, **collaborative search**, and **conversational search**. For the latter, I am also maintaining a [list of conversational venues and datasets](https://chauff.github.io/conversationalIR/). In 2016 and 2017 I received two prestigious personal grants from the Netherlands Organisation for Scientific Research (NWO) with a total funding of more than 1 million euros; this translates into 4-5 PhD/postdoc positions in the developing "search as learning" research area. Take a look at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) I co-organized on the topic to get an idea of what it is about. In the past few years, in addition to IR, I have also been active in the area of learning analytics (data science applied to large-scale educational data traces).
 
 In 2018, I gave an [invited keynote](https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/embed?start=false&loop=false&delayms=3000) at the French IR conference [CORIA 2018](https://project.inria.fr/coriataln2018/fr/) on the topic of search as learning.
 
@@ -42,16 +42,10 @@ In 2021, I gave an [invited keynote](https://docs.google.com/presentation/d/e/2P
 ## <img src="../img/contact.png" height="50px"> Contact
 
 ```
-TU Delft - EWI/ST/WIS
-PO Box 5031
-2600 GA Delft
-The Netherlands
-
-Office: Van Mourik Broekmanweg 6, East Wing 04.100
-Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
+Email: claudia.hauff[at]gmail.com
 ```
 
-## Current members of my lab
+## Current members of my TU Delft lab
 - David Maxwell (postdoc, since 03/2020)
 - Arthur Barbosa Câmara (PhD student, since 11/2018)
 - [Gustavo Penha](https://guzpenha.github.io/guzblog/) (PhD student, since 11/2018)
@@ -59,7 +53,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Sara Salimzadeh (Phd student, since 11/2019)
 - Peide Zhu (PhD student, since 11/2019)
 
-## Past members of my lab
+## Past members of my TU Delft lab
 - Felipe Moraes graduated in 2022 with a PhD thesis on [Examining the Effectiveness of Collaborative Search Engines](https://doi.org/10.4233/uuid:9f8f9ffc-c3d9-4583-8903-25889233a95b).
 - Dan Davis graduated in 2019 with a PhD thesis on the topic of [Large-Scale Learning Analytics: Modeling Learner Behavior & Improving Learning Outcomes in Massive Open Online Courses](https://doi.org/10.4233/uuid:b8be8302-84a0-4b29-a6fe-761a3f872420)
 - [Guanliang Chen](https://angusglchen.github.io/) graduated in 2019 with a PhD thesis on the topic of [MOOC Analytics: Learner Modeling and Content Generation](https://doi.org/10.4233/uuid:dd213d9b-e621-442d-8d11-4cd8b6e19635)
@@ -70,7 +64,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Research engineer Manuel Valle Torre (sponsored by Delft Data Science, 2019-2021)
 
 
-## <img src="../img/software.png" height="50px"> Lab software
+## <img src="../img/software.png" height="50px"> TU Delft lab software
 
 - [LogUI](https://github.com/logui-framework): A contemporary, framework-agnostic JavaScript library for logging user interactions on webpages. Lead developer is David Maxwell.
 - [ELAT](https://mvallet91.github.io/ELAT/): EdX Logfile Analysis Tool that is browser-based, and a fully local processing tool. No server needed, no programming knowledge needed, no setup costs. Lead developer is Manuel Valle Torre. 
