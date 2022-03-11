@@ -5,9 +5,7 @@ title: Teaching
 
 ## BSc and MSc thesis supervision
 
-I am supervising BSc and MSc projects in the broad areas of *information retrieval*, *natural language processing* and *data science*. Across BSc and MSc, I have supervised more than 45 projects. For all research directions, taking a look at papers at recent conferences (such as SIGIR, CIKM, WSDM, EMNLP, ACL, KDD) and ongoing benchmark efforts (MSMarco, SQUAD 2.0, GLUE, decaNLP, TREC, Kaggle) may help you to figure out a topic of interest.
-
-To give you a few concrete ideas, here are a number of thesis projects I supervised in recent years:
+I have supervised more than 45 BSc and MSc projects in the broad areas of *information retrieval*, *natural language processing* and *data science*. A few examples can be found below:
 
 - [The Impact of Group Size on Collaborative Search](http://resolver.tudelft.nl/uuid:d820f21f-66b0-44c0-9678-283134baca5b) (MSc)
 - [The Learning Tracker](http://resolver.tudelft.nl/uuid:f6c2ede4-a4e3-4ff0-b681-b0d057854e3c) (MSc)
@@ -74,16 +72,11 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 
 ### Web (and Database) Technology
 
-Since 2013/2014 I have also been teaching the first year Bachelor course *Web and Database Technology* (known as TI1506 or CSE1500) at TU Delft, together with
-[Alessandro Bozzon](http://alessandrobozzon.com/). I teach the Web technology part, which turned out to be quite a challenge due to
-the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML
-before the start of this course). 
+Between 2013 and 2022 I co-taught the first year Bachelor course *Web and Database Technology* (known as TI1506 or CSE1500) at TU Delft. I taught the Web technology part, which turned out to be quite a challenge due to the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML before the start of this course) and the ever-changing nature of web technologies.
 
-The web lecture transcripts (with self-check questions, demo code, assignments, etc.) are available [here](https://chauff.github.io/cse1500-web-transcripts/).
+The web lecture transcripts (with self-check questions, demo code, assignments, etc.) are available [here](https://chauff.github.io/cse1500-web-transcripts/). They have last been updated in 2022!
 
 Feel free to use the materials with acknowledgement.
-
-Needless to say that this is ongoing work at all times - web tech changes quickly.
 
 ### Information Retrieval
 
