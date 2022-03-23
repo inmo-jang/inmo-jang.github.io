@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Senior Researcher
+title:  
 subtitle: Delft, NL
 ---
 
