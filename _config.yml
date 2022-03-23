@@ -17,7 +17,7 @@ baseurl: ""
 title: Claudia Hauff
 
 # Short description of your site
-description: Academic website and blog
+description: Personal website
 
 # --- Navigation bar options --- #
 
@@ -38,7 +38,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Claudia Hauff
-  email: "c.hauff[at]tudelft.nl"
+  email: "claudia.hauff@gmail.com"
   github: chauff    # eg. daattali
   twitter: charlottehase   # eg. daattali
   og_image: "/img/og_claudia.png"
