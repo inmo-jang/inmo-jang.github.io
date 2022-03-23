@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Associate Prof., TU Delft
-subtitle: *on sabbatical @Spotify*
+title:  
+subtitle: 
 ---
 
 ## <img src="../img/news.png" height="50px"> News
@@ -18,7 +18,9 @@ subtitle: *on sabbatical @Spotify*
 ## <img src="../img/career.png" height="50px"> My career
 For a brief and compact overview, take a look at my 1-page [CV](../documents/Hauff_shortCV.pdf). 
 
-I joined Spotify in August 2021, while maintaining a part-time faculty position at TU Delft. I have been working as staff member (first as Assistant Professor and since 2018 as Associate Professor) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
+I joined Spotify in August 2021, initially for a sabbatical and then switching to a permanent role. 
+
+I maintain a part-time faculty position at TU Delft until the end of 2023. I have been working as staff member (first as Assistant Professor and since 2018 as Associate Professor) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
  [Delft University of Technology](http://www.tudelft.nl/) since 2013. Between 2011 and 2012 I was a Postdoc in the same group.
 I received my PhD in 2010 from the [University of Twente](https://www.utwente.nl/), where I worked in the 
 [Human Media Interaction group](http://hmi.ewi.utwente.nl/). 
@@ -29,7 +31,7 @@ including query performance prediction (the topic of [my PhD thesis](../document
 social search, computational social science, 
 learning to search and IR for specific user groups.
 
-I have diverse research interests and am always happy to dive into a new area. Together with a number of PhD students at TU Delft I am currently focusing on **how to incorporate search into the human learning process at scale**, **collaborative search**, and **conversational search**. For the latter, I am also maintaining a [list of conversational venues and datasets](https://chauff.github.io/conversationalIR/). In 2016 and 2017 I received two prestigious personal grants from the Netherlands Organisation for Scientific Research (NWO) with a total funding of more than 1 million euros; this translates into 4-5 PhD/postdoc positions in the developing "search as learning" research area. Take a look at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) I co-organized on the topic to get an idea of what it is about. In the past few years, in addition to IR, I have also been active in the area of learning analytics (data science applied to large-scale educational data traces).
+I have diverse research interests and am always happy to dive into a new area. Together with a number of PhD students at TU Delft I am currently focusing on **how to incorporate search into the human learning process at scale**, **collaborative search**, and **conversational search**. For the latter, I am also maintaining a [list of conversational venues and datasets](https://chauff.github.io/conversationalIR/). In 2016 and 2017 I received two prestigious personal grants from the Netherlands Organisation for Scientific Research (NWO) with a total funding of more than 1 million euros; this translates into 4-5 PhD/postdoc positions in the developing "search as learning" research area. Take a look at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) I co-organized on the topic to get an idea of what it is about. 
 
 In 2018, I gave an [invited keynote](https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/embed?start=false&loop=false&delayms=3000) at the French IR conference [CORIA 2018](https://project.inria.fr/coriataln2018/fr/) on the topic of search as learning.
 
