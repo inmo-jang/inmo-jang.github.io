@@ -26,8 +26,8 @@ I have supervised more than 45 BSc and MSc projects in the broad areas of *infor
 
 ### Big Data Processing
 
-Since 2013/2014 I have been teaching the second year Bachelor course *Big Data Processing* at TU Delft (with 2016/17 being the last time for now). The course covers a range of technologies in the Hadoop ecosystem after a short excursion into the streaming world; 
-I created the material based on a number of great books, including [Mining of Massive Datasets](http://www.mmds.org/),
+Between 2013/14 and 2016/17 I taught the second year Bachelor course *Big Data Processing* at TU Delft. The course covered a range of technologies in the Hadoop ecosystem after a short excursion into the streaming world; 
+I created the material based on a number of books, including [Mining of Massive Datasets](http://www.mmds.org/),
 [Data-Intensive Text Processing with MapReduce](https://lintool.github.io/MapReduceAlgorithms/), 
 [Hadoop: The Definite Guide](http://shop.oreilly.com/product/0636920033448.do), [Programming Pig](http://chimera.labs.oreilly.com/books/1234000001811/index.html)
 and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do). 
@@ -72,7 +72,7 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 
 ### Web (and Database) Technology
 
-Between 2013 and 2022 I co-taught the first year Bachelor course *Web and Database Technology* (known as TI1506 or CSE1500) at TU Delft. I taught the Web technology part, which turned out to be quite a challenge due to the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML before the start of this course) and the ever-changing nature of web technologies.
+Between 2013/14 and 2021/22 I co-taught the first year Bachelor course *Web and Database Technology* at TU Delft. I taught the Web technology part, which turned out to be quite a challenge due to the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML before the start of this course) and the ever-changing nature of web technologies.
 
 The web lecture transcripts (with self-check questions, demo code, assignments, etc.) are available [here](https://chauff.github.io/cse1500-web-transcripts/). They have last been updated in 2022!
 
@@ -80,4 +80,4 @@ Feel free to use the materials with acknowledgement.
 
 ### Information Retrieval
 
-In 2019/20 I co-taught the MSc Information Retrieval course with Nava Tintarev, splitting it along an IR and NLP line. The course setup, slides and group projects can be found [here](https://github.com/chauff/IN4325).
+Between 2017/18 and 2021/22 I co-taught the MSc course *Information Retrieval* at TU Delft, which was split along an IR and NLP line. The course setup, slides and group projects for the 2019/20 edition can be found [here](https://github.com/chauff/IN4325).

@@ -1,7 +1,6 @@
 ---
 layout: page
-title:  
-subtitle: Delft, NL
+title:  Senior Researcher @ Spotify
 ---
 
 ## <img src="../img/news.png" height="50px"> News
