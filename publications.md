@@ -12,28 +12,28 @@ Nirmal Roy, David Maxwell and Claudia Hauff. *Users and Contemporary SERPs: A (R
 
 <img src="../img/conference-paper.png" height="20px"> 
 <img src="../img/award.png" height="30px">
-Gustavo Penha, Arthur Câmara and Claudia Hauff. *Evaluating the Robustness of Retrieval Pipelines with Query Variation Generators*, accepted at ECIR 2022. <span style="color:red">It received the "Best Paper Award."</span> [[Preprint&#8594;]](https://arxiv.org/abs/2111.13057)
+Gustavo Penha, Arthur Câmara and Claudia Hauff. *Evaluating the Robustness of Retrieval Pipelines with Query Variation Generators*, ECIR, pp. (1):397-412, 2022. <span style="color:red">It received the "Best Paper Award."</span> [[Preprint&#8594;]](https://arxiv.org/abs/2111.13057)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Arthur Câmara, David Maxwell and Claudia Hauff. *Searching, Learning, and Subtopic Ordering: A Simulated Analysis*, accepted at ECIR 2022.
+Arthur Câmara, David Maxwell and Claudia Hauff. *Searching, Learning, and Subtopic Ordering: A Simulated Analysis*, ECIR, pp. (1):142-156, 2022.
 
 ## 2021 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px"><img src="../img/honorable.png" height="30px">
 
 <img src="../img/conference-paper.png" height="20px"> 
-David Maxwell and Claudia Hauff. *Contemporary Web-Based Interaction Logging Infrastructure: Discussing the Achievements and Remaining Developmental Challenges of LogUI*, accepted at DESIRES 2021.
+David Maxwell and Claudia Hauff. *Contemporary Web-Based Interaction Logging Infrastructure: Discussing the Achievements and Remaining Developmental Challenges of LogUI*, DESIRES, pp. 19-29, 2021.
 
 <img src="../img/workshop-paper.png" height="20px">
 Felipe Moraes, David Maxwell and Claudia Hauff, *Exploring Collaborative Navigation Support in Collaborative Product Search*, accepted at the ACM SIGIR Workshop on eCommerce 2021. [[PDF&#8594;]](https://sigir-ecom.github.io/ecom21Papers/paper10.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Nirmal Roy, Arthur Barbosa Câmara, David Maxwell and Claudia Hauff. *Incorporating Widget Positioning in Interaction Models of Search Behaviour*, accepted at ICTIR 2021. [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Roy.pdf)
+Nirmal Roy, Arthur Barbosa Câmara, David Maxwell and Claudia Hauff. *Incorporating Widget Positioning in Interaction Models of Search Behaviour*, ICTIR, pp. 53-62, 2021. [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Roy.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
 <img src="../img/honorable.png" height="30px">
-Sara Salimzadeh, David Maxwell and Claudia Hauff. *The Impact of Entity Cards on Learning-Oriented Search Tasks*, accepted at ICTIR 2021. <span style="color:red">It received an "Honorable Mention" for Best Student Paper.</span>  [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Salimzadeh.pdf)
+Sara Salimzadeh, David Maxwell and Claudia Hauff. *The Impact of Entity Cards on Learning-Oriented Search Tasks*, ICTIR, pp. 63-72, 2021. <span style="color:red">It received an "Honorable Mention" for Best Student Paper.</span>  [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Salimzadeh.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Peide Zhu and Claudia Hauff. *Evaluating BERT-based Rewards for Question Generation with Reinforcement Learning*, accepted at ICTIR 2021. [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Zhu.pdf)
+Peide Zhu and Claudia Hauff. *Evaluating BERT-based Rewards for Question Generation with Reinforcement Learning*, ICTIR, pp. 261-270, 2021. [[PDF Preprint&#8594;]](../documents/publications/ICTIR2021-Zhu.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> 
 Gustavo Penha and Claudia Hauff. *On the Calibration and Uncertainty of Neural Learning to Rank Models*, EACL, pp. 160-170, 2021. [[Preprint&#8594;]](https://arxiv.org/abs/2101.04356)
