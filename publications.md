@@ -7,6 +7,13 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2022 <img src="../img/award.png" height="30px">
 
+<img src="../img/conference-short-paper.png" height="20px"> 
+Peide Zhu, Jie Yang and Claudia Hauff. *MOOC-Rec: Instructional Video Clip Recommendation for
+MOOC Forum Questions*, accepted at EDM 2022.
+
+<img src="../img/conference-paper.png" height="20px"> 
+Peide Zhu and Claudia Hauff. *Unsupervised Domain Adaptation for Question Generation with Domain Data Selection and Self-training*, accepted at Findings of NAACL 2022.
+
 <img src="../img/conference-paper.png" height="20px"> 
 Nirmal Roy, David Maxwell and Claudia Hauff. *Users and Contemporary SERPs: A (Re-)Investigation*, accepted at SIGIR 2022 (reproducibility track).
 
