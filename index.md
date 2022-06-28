@@ -52,8 +52,7 @@ Email: claudia.hauff[at]gmail.com
 - Arthur Barbosa Câmara (PhD student, since 11/2018)
 - [Gustavo Penha](https://guzpenha.github.io/guzblog/) (PhD student, since 11/2018)
 - [Nirmal Roy](https://roynirmal.github.io/) (PhD student, since 09/2019)
-- Sara Salimzadeh (Phd student, since 11/2019)
-- Peide Zhu (PhD student, since 11/2019)
+- [Peide Zhu](https://www.wis.ewi.tudelft.nl/zhu) (PhD student, since 11/2019)
 
 ## Past members of my TU Delft lab
 - Felipe Moraes graduated in 2022 with a PhD thesis on [Examining the Effectiveness of Collaborative Search Engines](https://doi.org/10.4233/uuid:9f8f9ffc-c3d9-4583-8903-25889233a95b).
