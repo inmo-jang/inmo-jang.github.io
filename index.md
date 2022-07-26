@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff Research Scientist
-subtitle: Spotify
+subtitle: Spotify / TU Delft (NL)
 ---
 
 ## <img src="../img/news.png" height="50px"> News
@@ -21,7 +21,7 @@ For a brief and compact overview, take a look at my 1-page [CV](../documents/Hau
 
 I joined Spotify in August 2021, initially for a sabbatical and then switching to a permanent role in April 2022 as Staff Research Scientist.
 
-I maintain a part-time faculty position at TU Delft until the end of 2023. I have been working as staff member (first as Assistant Professor and since 2018 as Associate Professor) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
+I maintain a part-time faculty position at TU Delft. I have been working as staff member (first as Assistant Professor and since 2018 as Associate Professor) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
  [Delft University of Technology](http://www.tudelft.nl/) since 2013. Between 2011 and 2012 I was a Postdoc in the same group.
 I received my PhD in 2010 from the [University of Twente](https://www.utwente.nl/), where I worked in the 
 [Human Media Interaction group](http://hmi.ewi.utwente.nl/). 
