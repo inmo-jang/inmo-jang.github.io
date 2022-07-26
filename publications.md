@@ -9,7 +9,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 <img src="../img/conference-short-paper.png" height="20px"> 
 Peide Zhu, Jie Yang and Claudia Hauff. *MOOC-Rec: Instructional Video Clip Recommendation for
-MOOC Forum Questions*, accepted at EDM 2022.
+MOOC Forum Questions*, accepted at EDM 2022. [[EDM Proceedings&#8594;]](https://educationaldatamining.org/edm2022/proceedings/2022.EDM-posters.86/index.html)
 
 <img src="../img/conference-paper.png" height="20px"> 
 Peide Zhu and Claudia Hauff. *Unsupervised Domain Adaptation for Question Generation with Domain Data Selection and Self-training*, Findings of NAACL 2022. [[PDF&#8594;]](https://aclanthology.org/2022.findings-naacl.183.pdf)
@@ -22,12 +22,12 @@ Nirmal Roy, David Maxwell and Claudia Hauff. *Users and Contemporary SERPs: A (R
 Gustavo Penha, Arthur Câmara and Claudia Hauff. *Evaluating the Robustness of Retrieval Pipelines with Query Variation Generators*, ECIR, pp. (1):397-412, 2022. <span style="color:red">It received the "Best Paper Award."</span> [[Preprint&#8594;]](https://arxiv.org/abs/2111.13057)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Arthur Câmara, David Maxwell and Claudia Hauff. *Searching, Learning, and Subtopic Ordering: A Simulated Analysis*, ECIR, pp. (1):142-156, 2022.
+Arthur Câmara, David Maxwell and Claudia Hauff. *Searching, Learning, and Subtopic Ordering: A Simulated Analysis*, ECIR, pp. (1):142-156, 2022. [[Preprint&#8594;]](https://arxiv.org/abs/2201.11181)
 
 ## 2021 <img src="../img/award.png" height="30px"><img src="../img/award.png" height="30px"><img src="../img/honorable.png" height="30px">
 
 <img src="../img/conference-paper.png" height="20px"> 
-David Maxwell and Claudia Hauff. *Contemporary Web-Based Interaction Logging Infrastructure: Discussing the Achievements and Remaining Developmental Challenges of LogUI*, DESIRES, pp. 19-29, 2021.
+David Maxwell and Claudia Hauff. *Contemporary Web-Based Interaction Logging Infrastructure: Discussing the Achievements and Remaining Developmental Challenges of LogUI*, DESIRES, pp. 19-29, 2021. [[Preprint&#8594;]](https://desires.dei.unipd.it/2021/papers/paper-13.pdf.pdf)
 
 <img src="../img/workshop-paper.png" height="20px">
 Felipe Moraes, David Maxwell and Claudia Hauff, *Exploring Collaborative Navigation Support in Collaborative Product Search*, accepted at the ACM SIGIR Workshop on eCommerce 2021. [[PDF&#8594;]](https://sigir-ecom.github.io/ecom21Papers/paper10.pdf)
