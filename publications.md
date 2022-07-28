@@ -15,7 +15,7 @@ MOOC Forum Questions*, accepted at EDM 2022. [[EDM Proceedings&#8594;]](https://
 Peide Zhu and Claudia Hauff. *Unsupervised Domain Adaptation for Question Generation with Domain Data Selection and Self-training*, Findings of NAACL 2022. [[PDF&#8594;]](https://aclanthology.org/2022.findings-naacl.183.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Nirmal Roy, David Maxwell and Claudia Hauff. *Users and Contemporary SERPs: A (Re-)Investigation*, SIGIR, pp. 2765–2775, 2022. [[ACM Open Access;]](https://dl.acm.org/doi/10.1145/3477495.3531719) 
+Nirmal Roy, David Maxwell and Claudia Hauff. *Users and Contemporary SERPs: A (Re-)Investigation*, SIGIR, pp. 2765–2775, 2022. [[Preprint&#8594;]]([https://dl.acm.org/doi/10.1145/3477495.3531719](https://arxiv.org/abs/2207.13117)) 
 
 <img src="../img/conference-paper.png" height="20px"> 
 <img src="../img/award.png" height="30px">
