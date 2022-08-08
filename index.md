@@ -5,7 +5,7 @@ subtitle: Spotify / TU Delft (NL)
 ---
 
 ## <img src="../img/news.png" height="50px"> News
-- <img src="../img/fireworks.png" height="30px"> SIGIR 2022 paper led by Nirmal Roy accepted: [Users and Contemporary SERPs: A (Re-)Investigation](https://dl.acm.org/doi/10.1145/3477495.3531719).
+- <img src="../img/fireworks.png" height="30px"> SIGIR 2022 paper led by Nirmal Roy accepted: [Users and Contemporary SERPs: A (Re-)Investigation](https://arxiv.org/abs/2207.13117).
 - One more PhD defense to celebrate in my lab: Felipe Moraes defended his PhD thesis on the topic of [Examining the Effectiveness of Collaborative Search Engines](https://doi.org/10.4233/uuid:9f8f9ffc-c3d9-4583-8903-25889233a95b) in February 2022
 - <img src="../img/spotify.png" height="30px"> Starting from August 2021 I work at Spotify, with a part-time appointment at TU Delft.
 - <img src="../img/fireworks.png" height="30px"> Three works made it into  ICTIR 2021. Led by three PhD students from my team, Nirmal Roy (interaction models for IR), Peide Zhu (question generation), and Sara Salimzadeh
