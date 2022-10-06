@@ -7,6 +7,10 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2022 <img src="../img/award.png" height="30px">
 
+
+<img src="../img/conference-paper.png" height="20px"> 
+Peide Zhu, Zhen Wang, Claudia Hauff, Jie Yang and Avishek Anand. *Answer Quality Aware Aggregation for Extractive QA Crowdsourcing*, Findings of EMNLP 2022.
+
 <img src="../img/conference-short-paper.png" height="20px"> 
 Peide Zhu, Jie Yang and Claudia Hauff. *MOOC-Rec: Instructional Video Clip Recommendation for
 MOOC Forum Questions*, accepted at EDM 2022. [[EDM Proceedings&#8594;]](https://educationaldatamining.org/edm2022/proceedings/2022.EDM-posters.86/index.html)
