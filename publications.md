@@ -8,6 +8,9 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2023
 
 <img src="../img/conference-paper.png" height="20px"> 
+Gustavo Penha and Claudia Hauff. *Do the Findings of Document and Passage Retrieval Generalize to the Retrieval of Responses for Dialogues?*, ECIR 2023.
+
+<img src="../img/conference-paper.png" height="20px"> 
 Leif Azzopardi, David Maxwell, Martin Halvey and Claudia Hauff. *Driven to Distraction: Examining the Influence of Distractors on Search Behaviours, Performance and Experience*, CHIIR 2023.
 
 ## 2022 <img src="../img/award.png" height="30px">
