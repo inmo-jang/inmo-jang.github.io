@@ -85,6 +85,7 @@ Email: claudia.hauff[at]gmail.com
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
 
 ## <img src="../img/orga.png" height="50px"> Organizational duties and activities
+- Co-chair of the [CIKM 2023](https://cikm2023.github.io/) Applied Research track
 - Invited talk at the [SIKS day 2022](http://www.siks.nl/SIKS-day-2022.php) ([slides](https://docs.google.com/presentation/d/15KdD1V5BCksJnhXEumddAnX9FbYhMDpu_wj1S_ZHEA4/edit?usp=sharing))
 - Invited panel member for the *The Next Generation of Multimedia Search and Recommendation* at ACM Multimedia 2021
 - Invited talk ([slides](../documents/FairnessWorkshop2021-Hauff.pdf)) at the [Sim4IR workshop](https://sim4ir.org/) (July 2021)
