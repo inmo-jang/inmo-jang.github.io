@@ -5,7 +5,7 @@ subtitle: Spotify / TU Delft (NL)
 ---
 
 ## <img src="../img/news.png" height="50px"> News
-- <img src="../img/fireworks.png" height="30px" ECIR 2023 paper led by Gustavo Penha answering the question *Do the Findings of Document and Passage Retrieval Generalize to the Retrieval of Responses for Dialogues?* The answer is: yes, they do (most of the time).
+- <img src="../img/fireworks.png" height="30px"> ECIR 2023 paper led by Gustavo Penha answering the question *Do the Findings of Document and Passage Retrieval Generalize to the Retrieval of Responses for Dialogues?* The answer is: yes, they do (most of the time).
 - <img src="../img/fireworks.png" height="30px"> SIGIR 2022 paper led by Nirmal Roy accepted: [Users and Contemporary SERPs: A (Re-)Investigation](https://arxiv.org/abs/2207.13117).
 - One more PhD defense to celebrate in my lab: Felipe Moraes defended his PhD thesis on the topic of [Examining the Effectiveness of Collaborative Search Engines](https://doi.org/10.4233/uuid:9f8f9ffc-c3d9-4583-8903-25889233a95b) in February 2022
 - <img src="../img/spotify.png" height="30px"> Starting from August 2021 I work at Spotify, with a part-time appointment at TU Delft.
