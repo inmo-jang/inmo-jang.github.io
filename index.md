@@ -87,6 +87,7 @@ Email: claudia.hauff[at]gmail.com
 ## <img src="../img/orga.png" height="50px"> Organizational duties and activities
 - Co-chair of the [CIKM 2023](https://cikm2023.github.io/) Applied Research track
 - Invited talk at the [SIKS day 2022](http://www.siks.nl/SIKS-day-2022.php) ([slides](https://docs.google.com/presentation/d/15KdD1V5BCksJnhXEumddAnX9FbYhMDpu_wj1S_ZHEA4/edit?usp=sharing))
+- CHIIR 2022 demo co-chair
 - Invited panel member for the *The Next Generation of Multimedia Search and Recommendation* at ACM Multimedia 2021
 - Invited talk ([slides](../documents/FairnessWorkshop2021-Hauff.pdf)) at the [Sim4IR workshop](https://sim4ir.org/) (July 2021)
 - Invited talk at the Algorithmic Targeted Communication workshop (June 2021) 
@@ -96,7 +97,6 @@ Email: claudia.hauff[at]gmail.com
 - Invited keynote ([slides](https://docs.google.com/presentation/d/e/2PACX-1vSR6fpLodIbp5aChroo7ee3ihTt5ndRtK61B--4eTtnSHh0-nViz4Hs2GBeDZaVhrZ_N_m8Nu2qITjw/pub?start=false&loop=false&delayms=3000)) at the ING NLP Analytics Conference (03/2021)
 - Invited talk ([slides](../documents/FairnessWorkshop2021-Hauff.pdf)) at the Glasgow Fairness and Bias in Information Retrieval Workshop (03/2021)
 - Elected [ELLIS Fellow](https://ellis.eu/fellows) in the ELLIS Unit Delft (12/2020)
-- CHIIR 2022 demo co-chair
 - Guest editor of an ACM TOIS special issue on Conversational Search (summer of 2020)
 - Invited keynote ([slides](https://docs.google.com/presentation/d/e/2PACX-1vQbz1W-rqzOMjzH1s3b9wYPc4xPKOK9HVpWf_GY8SaipuF3RBAD_FD39_VrJ98GaBy7lO-JFAdou1OS/pub?start=false&loop=false&delayms=3000)) at the [1st International Workshop on Investigating Learning During Web Search](https://iwilds2020.wordpress.com/) co-located with CIKM 2020
 - Short paper co-chair at SIGIR 2021
