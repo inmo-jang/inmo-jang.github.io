@@ -87,6 +87,7 @@ Email: claudia.hauff[at]gmail.com
 
 ## <img src="../img/orga.png" height="50px"> Organizational duties and activities
 - Co-chair of the [CIKM 2023](https://cikm2023.github.io/) Applied Research track
+- Invited participant to the [Frontiers of Information Access Experimentation for Research and Education Dagstuhl seminar](https://www.dagstuhl.de/23031)
 - Invited talk at the [SIKS day 2022](http://www.siks.nl/SIKS-day-2022.php) ([slides](https://docs.google.com/presentation/d/15KdD1V5BCksJnhXEumddAnX9FbYhMDpu_wj1S_ZHEA4/edit?usp=sharing))
 - CHIIR 2022 demo co-chair
 - Invited panel member for the *The Next Generation of Multimedia Search and Recommendation* at ACM Multimedia 2021
