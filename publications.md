@@ -5,12 +5,13 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html). 
 
-## 2023
+## 2023 <img src="../img/honorable.png" height="30px">
 
 <img src="../img/conference-paper.png" height="20px"> 
 Gustavo Penha and Claudia Hauff. *Do the Findings of Document and Passage Retrieval Generalize to the Retrieval of Responses for Dialogues?*, ECIR 2023. [[Preprint&#8594;]](https://arxiv.org/abs/2301.05508)
 
-<img src="../img/conference-paper.png" height="20px"> 
+<img src="../img/conference-paper.png" height="20px">
+<img src="../img/honorable.png" height="30px">
 Leif Azzopardi, David Maxwell, Martin Halvey and Claudia Hauff. *Driven to Distraction: Examining the Influence of Distractors on Search Behaviours, Performance and Experience*, CHIIR 2023. [[ACM Proceedings&#8594;]](https://doi.org/10.1145/3576840.3578298)
 
 ## 2022 <img src="../img/award.png" height="30px">
