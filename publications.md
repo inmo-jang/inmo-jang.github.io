@@ -12,7 +12,7 @@ Gustavo Penha and Claudia Hauff. *Do the Findings of Document and Passage Retrie
 
 <img src="../img/conference-paper.png" height="20px">
 <img src="../img/honorable.png" height="30px">
-Leif Azzopardi, David Maxwell, Martin Halvey and Claudia Hauff. *Driven to Distraction: Examining the Influence of Distractors on Search Behaviours, Performance and Experience*, CHIIR 2023. [[ACM Proceedings&#8594;]](https://doi.org/10.1145/3576840.3578298)
+Leif Azzopardi, David Maxwell, Martin Halvey and Claudia Hauff. *Driven to Distraction: Examining the Influence of Distractors on Search Behaviours, Performance and Experience*, CHIIR 2023. <span style="color:red">It received an "Honorable Mention" award.</span> [[ACM Proceedings&#8594;]](https://doi.org/10.1145/3576840.3578298)
 
 ## 2022 <img src="../img/award.png" height="30px">
 
