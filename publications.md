@@ -7,6 +7,9 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2023 <img src="../img/honorable.png" height="30px">
 
+<img src="../img/conference-short-paper.png" height="20px"> 
+Samarth Bhargav, Anne Schuth and Claudia Hauff. *When the Music Stops: Tip-of-the-Tongue Retrieval for Music*, SIGIR 2023.
+
 <img src="../img/conference-paper.png" height="20px"> 
 Nirmal Roy, Agathe Balayn, David Maxwell and Claudia Hauff. *Hear Me Out: A Study on the Use of the Voice Modality for Crowdsourced Relevance Assessments*, SIGIR 2023.
 
