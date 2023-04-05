@@ -8,6 +8,9 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2023 <img src="../img/honorable.png" height="30px">
 
 <img src="../img/conference-paper.png" height="20px"> 
+Nirmal Roy, Agathe Balayn, David Maxwell and Claudia Hauff. *Hear Me Out: A Study on the Use of the Voice Modality for Crowdsourced Relevance Assessments*, SIGIR 2023.
+
+<img src="../img/conference-paper.png" height="20px"> 
 Gustavo Penha and Claudia Hauff. *Do the Findings of Document and Passage Retrieval Generalize to the Retrieval of Responses for Dialogues?*, ECIR 2023. [[Preprint&#8594;]](https://arxiv.org/abs/2301.05508)
 
 <img src="../img/conference-paper.png" height="20px">
