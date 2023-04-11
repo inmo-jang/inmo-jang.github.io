@@ -5,6 +5,7 @@ subtitle: Part-time Associate Professor @ TU Delft (NL)
 ---
 
 ## <img src="../img/news.png" height="50px"> News
+- <img src="../img/fireworks.png" height="30px"> Two SIGIR 2023 submissions accepted, one led by Nirmal Roy exploring the use of the voice modality for relevance assessments and one led by Samarth Bhargav on tip-of-the-tongue retrieval.
 - <img src="../img/fireworks.png" height="30px"> ECIR 2023 paper led by Gustavo Penha accepted, answering the question *Do the Findings of Document and Passage Retrieval Generalize to the Retrieval of Responses for Dialogues?* The answer is: yes, they do (most of the time).
 - <img src="../img/fireworks.png" height="30px"> SIGIR 2022 paper led by Nirmal Roy accepted: [Users and Contemporary SERPs: A (Re-)Investigation](https://arxiv.org/abs/2207.13117).
 - One more PhD defense to celebrate in my lab: Felipe Moraes defended his PhD thesis on the topic of [Examining the Effectiveness of Collaborative Search Engines](https://doi.org/10.4233/uuid:9f8f9ffc-c3d9-4583-8903-25889233a95b) in February 2022.
