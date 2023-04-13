@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Staff Research Scientist
-subtitle: Spotify
+title: Staff Research Scientist @ Spotify
+subtitle: Part-time Associate Professor @ TU Delft (NL)
 ---
 
 ## <img src="../img/news.png" height="50px"> News
