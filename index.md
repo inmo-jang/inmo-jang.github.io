@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Staff Research Scientist
-subtitle: @ Spotify
+subtitle: Spotify
 ---
 
 ## <img src="../img/news.png" height="50px"> News
