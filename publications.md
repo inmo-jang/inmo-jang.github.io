@@ -7,6 +7,8 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2023 <img src="../img/honorable.png" height="30px">
 
+Guglielmo Faggioli, Laura Dietz, Charles Clarke, Gianluca Demartini, Matthias Hagen, Claudia Hauff, Noriko Kando, Evangelos Kanoulas, Martin Potthast, Benno Stein, Henning Wachsmuth. *Perspectives on Large Language Models for Relevance Judgment*, 2023. [[arXiv&#8594;]](https://arxiv.org/abs/2304.09161)
+
 <img src="../img/conference-short-paper.png" height="20px"> 
 Samarth Bhargav, Anne Schuth and Claudia Hauff. *When the Music Stops: Tip-of-the-Tongue Retrieval for Music*, SIGIR 2023.
 
