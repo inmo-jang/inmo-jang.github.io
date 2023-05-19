@@ -89,6 +89,7 @@ Email: claudia.hauff[at]gmail.com
 ## <img src="../img/orga.png" height="50px"> Organizational duties and activities
 - Track co-chair of the ECIR 2024 *Reproducibility* track
 - Program co-chair of SIGIR 2024
+- AAAI-24 Area Chair
 - Track co-chair of the [CIKM 2023](https://cikm2023.github.io/) *Applied Research* track
 - Invited participant to the [Frontiers of Information Access Experimentation for Research and Education Dagstuhl seminar](https://www.dagstuhl.de/23031)
 - Invited talk at the [SIKS day 2022](http://www.siks.nl/SIKS-day-2022.php) ([slides](https://docs.google.com/presentation/d/15KdD1V5BCksJnhXEumddAnX9FbYhMDpu_wj1S_ZHEA4/edit?usp=sharing))
