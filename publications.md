@@ -7,13 +7,13 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2023 <img src="../img/honorable.png" height="30px">
 
-Guglielmo Faggioli, Laura Dietz, Charles Clarke, Gianluca Demartini, Matthias Hagen, Claudia Hauff, Noriko Kando, Evangelos Kanoulas, Martin Potthast, Benno Stein and Henning Wachsmuth. *Perspectives on Large Language Models for Relevance Judgment*, 2023. [[arXiv&#8594;]](https://arxiv.org/abs/2304.09161)
+Guglielmo Faggioli, Laura Dietz, Charles Clarke, Gianluca Demartini, Matthias Hagen, Claudia Hauff, Noriko Kando, Evangelos Kanoulas, Martin Potthast, Benno Stein and Henning Wachsmuth. *Perspectives on Large Language Models for Relevance Judgment*, 2023. [[Preprint&#8594;]](https://arxiv.org/abs/2304.09161)
 
 <img src="../img/conference-short-paper.png" height="20px"> 
-Samarth Bhargav, Anne Schuth and Claudia Hauff. *When the Music Stops: Tip-of-the-Tongue Retrieval for Music*, SIGIR 2023.
+Samarth Bhargav, Anne Schuth and Claudia Hauff. *When the Music Stops: Tip-of-the-Tongue Retrieval for Music*, SIGIR 2023. [[Preprint&#8594;]](https://arxiv.org/abs/2305.14072) 
 
 <img src="../img/conference-paper.png" height="20px"> 
-Nirmal Roy, Agathe Balayn, David Maxwell and Claudia Hauff. *Hear Me Out: A Study on the Use of the Voice Modality for Crowdsourced Relevance Assessments*, SIGIR 2023. [[arXiv&#8594;]](https://arxiv.org/abs/2304.10881)
+Nirmal Roy, Agathe Balayn, David Maxwell and Claudia Hauff. *Hear Me Out: A Study on the Use of the Voice Modality for Crowdsourced Relevance Assessments*, SIGIR 2023. [[Preprint&#8594;]](https://arxiv.org/abs/2304.10881)
 
 <img src="../img/conference-paper.png" height="20px"> 
 Gustavo Penha and Claudia Hauff. *Do the Findings of Document and Passage Retrieval Generalize to the Retrieval of Responses for Dialogues?*, ECIR 2023. [[Preprint&#8594;]](https://arxiv.org/abs/2301.05508)
