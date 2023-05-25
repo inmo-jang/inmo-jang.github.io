@@ -52,11 +52,11 @@ Email: claudia.hauff[at]gmail.com
 
 ## Current members of my TU Delft lab
 - Arthur Barbosa Câmara (PhD student, since 11/2018)
-- [Gustavo Penha](https://guzpenha.github.io/guzblog/) (PhD student, since 11/2018)
 - [Nirmal Roy](https://roynirmal.github.io/) (PhD student, since 09/2019)
 - [Peide Zhu](https://www.wis.ewi.tudelft.nl/zhu) (PhD student, since 11/2019)
 
 ## Past members of my TU Delft lab
+- [Gustavo Penha](https://guzpenha.github.io/guzblog/) graduated in 2023 with a PhD thesis [Designing and Diagnosing Models for Conversational Search and Recommendation](https://doi.org/10.4233/uuid:acdfb704-6310-4b28-b884-4bd3e78b3f84).
 - Postdoc David Maxwell worked on a range of interactive IR problems (2020-2022).
 - Felipe Moraes graduated in 2022 with a PhD thesis on [Examining the Effectiveness of Collaborative Search Engines](https://doi.org/10.4233/uuid:9f8f9ffc-c3d9-4583-8903-25889233a95b).
 - Dan Davis graduated in 2019 with a PhD thesis on the topic of [Large-Scale Learning Analytics: Modeling Learner Behavior & Improving Learning Outcomes in Massive Open Online Courses](https://doi.org/10.4233/uuid:b8be8302-84a0-4b29-a6fe-761a3f872420).
