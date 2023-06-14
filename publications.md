@@ -7,8 +7,10 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2023 <img src="../img/honorable.png" height="30px">
 
+<img src="../img/conference-paper.png" height="20px"> 
 Negar Arabzadeh, Oleksandra Kmet, Ben Carterette, Charles Clarke, Claudia Hauff and Praveen Chandar. *A is for Adele: An Offline Evaluation Metric for Instant Search*, ICTIR 2023.
 
+<img src="../img/conference-paper.png" height="20px"> 
 Guglielmo Faggioli, Laura Dietz, Charles Clarke, Gianluca Demartini, Matthias Hagen, Claudia Hauff, Noriko Kando, Evangelos Kanoulas, Martin Potthast, Benno Stein and Henning Wachsmuth. *Perspectives on Large Language Models for Relevance Judgment*, ICTIR 2023. [[Preprint&#8594;]](https://arxiv.org/abs/2304.09161)
 
 <img src="../img/conference-short-paper.png" height="20px"> 
