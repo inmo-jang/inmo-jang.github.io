@@ -5,13 +5,13 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html). 
 
-## 2023 <img src="../img/honorable.png" height="30px">
+## 2023 <img src="../img/award.png" height="30px"> <img src="../img/honorable.png" height="30px">
 
 <img src="../img/conference-paper.png" height="20px"> 
 Negar Arabzadeh, Oleksandra Kmet, Ben Carterette, Charles Clarke, Claudia Hauff and Praveen Chandar. *A is for Adele: An Offline Evaluation Metric for Instant Search*, ICTIR 2023.
 
-<img src="../img/conference-paper.png" height="20px"> 
-Guglielmo Faggioli, Laura Dietz, Charles Clarke, Gianluca Demartini, Matthias Hagen, Claudia Hauff, Noriko Kando, Evangelos Kanoulas, Martin Potthast, Benno Stein and Henning Wachsmuth. *Perspectives on Large Language Models for Relevance Judgment*, ICTIR 2023. [[Preprint&#8594;]](https://arxiv.org/abs/2304.09161)
+<img src="../img/conference-paper.png" height="20px"> <img src="../img/award.png" height="30px">
+Guglielmo Faggioli, Laura Dietz, Charles Clarke, Gianluca Demartini, Matthias Hagen, Claudia Hauff, Noriko Kando, Evangelos Kanoulas, Martin Potthast, Benno Stein and Henning Wachsmuth. *Perspectives on Large Language Models for Relevance Judgment*, ICTIR 2023. <span style="color:red">It received the "Best Paper Award."</span> [Preprint&#8594;]](https://arxiv.org/abs/2304.09161)
 
 <img src="../img/conference-short-paper.png" height="20px"> 
 Samarth Bhargav, Anne Schuth and Claudia Hauff. *When the Music Stops: Tip-of-the-Tongue Retrieval for Music*, SIGIR 2023. [[Preprint&#8594;]](https://arxiv.org/abs/2305.14072) 
