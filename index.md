@@ -5,7 +5,7 @@ subtitle: Spotify
 ---
 
 ## <img src="../img/news.png" height="50px"> News
-- <img src="../img/award.png" height="30px"> 11 (+1) information retrieval researchers discussing the future of IR evaluation at Dagstuhl turned into a [best paper award](https://arxiv.org/abs/2304.09161) at ICTIR 2023!
+- <img src="../img/award.png" height="30px"> 11 (+1) information retrieval researchers discussing the future of IR evaluation at Dagstuhl turned into a [best paper award](https://arxiv.org/abs/2304.09161) at ICTIR 2023! [Photo](https://twitter.com/CharlotteHase/status/1683290714145447936) as proof!
 - One more PhD defense to celebrate in my lab: Gustavo Penha defended his PhD thesis on the topic of [Designing and Diagnosing Models for Conversational Search and Recommendation](https://doi.org/10.4233/uuid:acdfb704-6310-4b28-b884-4bd3e78b3f84) in May 2023.
 - <img src="../img/fireworks.png" height="30px"> Two SIGIR 2023 submissions accepted, one led by Nirmal Roy exploring the use of the voice modality for relevance assessments and one led by Samarth Bhargav on tip-of-the-tongue retrieval.
 - <img src="../img/fireworks.png" height="30px"> ECIR 2023 paper led by Gustavo Penha accepted, answering the question *Do the Findings of Document and Passage Retrieval Generalize to the Retrieval of Responses for Dialogues?* The answer is: yes, they do (most of the time).
