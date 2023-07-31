@@ -5,18 +5,13 @@ subtitle: Spotify
 ---
 
 ## <img src="../img/news.png" height="50px"> News
+- <img src="../img/award.png" height="30px"> 11 (+1) information retrieval researchers discussing the future of IR evaluation at Dagstuhl turned into a [best paper award](https://arxiv.org/abs/2304.09161) at ICTIR 2023!
+- One more PhD defense to celebrate in my lab: Gustavo Penha defended his PhD thesis on the topic of [Designing and Diagnosing Models for Conversational Search and Recommendation](https://doi.org/10.4233/uuid:acdfb704-6310-4b28-b884-4bd3e78b3f84) in May 2023.
 - <img src="../img/fireworks.png" height="30px"> Two SIGIR 2023 submissions accepted, one led by Nirmal Roy exploring the use of the voice modality for relevance assessments and one led by Samarth Bhargav on tip-of-the-tongue retrieval.
 - <img src="../img/fireworks.png" height="30px"> ECIR 2023 paper led by Gustavo Penha accepted, answering the question *Do the Findings of Document and Passage Retrieval Generalize to the Retrieval of Responses for Dialogues?* The answer is: yes, they do (most of the time).
 - <img src="../img/fireworks.png" height="30px"> SIGIR 2022 paper led by Nirmal Roy accepted: [Users and Contemporary SERPs: A (Re-)Investigation](https://arxiv.org/abs/2207.13117).
 - One more PhD defense to celebrate in my lab: Felipe Moraes defended his PhD thesis on the topic of [Examining the Effectiveness of Collaborative Search Engines](https://doi.org/10.4233/uuid:9f8f9ffc-c3d9-4583-8903-25889233a95b) in February 2022.
 - <img src="../img/spotify.png" height="30px"> Starting from August 2021 I work at Spotify, with a part-time appointment at TU Delft.
-- <img src="../img/fireworks.png" height="30px"> Three works made it into  ICTIR 2021. Led by three PhD students from my team, Nirmal Roy (interaction models for IR), Peide Zhu (question generation), and Sara Salimzadeh
- (entity cards - this work got an honorable mention <img src="../img/honorable.png" height="30px">). Supported by David Maxwell and Arthur Câmara.
-- <img src="../img/microphone.png" height="30px"> I gave a talk (04/2021) at the UMass CIIR Talk Series and presented my team's [Search As Learning research](https://docs.google.com/presentation/d/e/2PACX-1vTngMwaUeToWKfFSwCS00pFadyKoukiLwkf0SzgRIkaV8lkgJFLL5p_Dmmo-G7YKnsByx0vwtAbq6aT/pub?start=false&loop=false&delayms=3000).
-- <img src="../img/microphone.png" height="30px"> I gave a keynote (04/2021) at the [Workshop on Mixed-Initiative ConveRsatiOnal Systems 2021](https://micros2021.github.io/) co-hosted at ECIR; the slides are available [here](https://docs.google.com/presentation/d/e/2PACX-1vRT--7x9Vuu3gLY7s2PHWoEXDTGVrUuPi1CelWIx5IC8NagYJsJveYpBXWP2NbY2GNSgb1a_Dh7CP86/pub?start=false&loop=false&delayms=3000).
-- <img src="../img/award.png" height="30px"> Our ECIR demo *LogUI: Contemporary Logging Infrastructure for Web-Based Experiments* (led by David Maxwell) received the "Best Demo Award."
-- <img src="../img/award.png" height="30px"> Our CHIIR paper *Searching to Learn with Instructional Scaffolding* (led by Arthur Câmara) received the "Best Student Paper Award." Watch the paper's video presentation [on YouTube](https://www.youtube.com/watch?v=U38wcNvUUhY).
-- <img src="../img/fireworks.png" height="30px"> Full paper accepted at **EACL 2021**: *On the Calibration and Uncertainty of Neural Learning to Rank Models*, led by Gustavo Penha.
 
 ## <img src="../img/career.png" height="50px"> My career
 For a brief and compact overview, take a look at my 1-page [CV](../documents/Hauff_shortCV.pdf). 
