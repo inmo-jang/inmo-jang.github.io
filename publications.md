@@ -8,10 +8,10 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2023 <img src="../img/award.png" height="30px"> <img src="../img/honorable.png" height="30px">
 
 <img src="../img/conference-paper.png" height="20px"> 
-Enrico Palumbo, Andreas Damianou, Alice Wang, Alva Liu, Ghazal Fazelnia, Francesco Fabbri, Rui Ferreira, Fabrizio Silvestri, Hugues Bouchard, Claudia Hauff, Mounia Lalmas, Ben Carterette, Praveen Chandar and David Nyhan. *A is for Adele: An Offline Evaluation Metric for Instant Search*, ICTIR 2023. [[PDF&#8594;]](../documents/publications/ICTIR2023_Arabzadeh.pdf)
+Enrico Palumbo, Andreas Damianou, Alice Wang, Alva Liu, Ghazal Fazelnia, Francesco Fabbri, Rui Ferreira, Fabrizio Silvestri, Hugues Bouchard, Claudia Hauff, Mounia Lalmas, Ben Carterette, Praveen Chandar and David Nyhan. *Graph Learning for Exploratory Query Suggestions in an Instant Search System*, CIKM 2023 (Applied track).
 
 <img src="../img/conference-paper.png" height="20px"> 
-Negar Arabzadeh, Oleksandra Kmet, Ben Carterette, Charles Clarke, Claudia Hauff and Praveen Chandar. *Graph Learning for Exploratory Query Suggestions in an Instant Search System*, CIKM 2023 (Applied track).
+Negar Arabzadeh, Oleksandra Kmet, Ben Carterette, Charles Clarke, Claudia Hauff and Praveen Chandar. *A is for Adele: An Offline Evaluation Metric for Instant Search*, ICTIR 2023. [[PDF&#8594;]](../documents/publications/ICTIR2023_Arabzadeh.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> <img src="../img/award.png" height="30px">
 Guglielmo Faggioli, Laura Dietz, Charles Clarke, Gianluca Demartini, Matthias Hagen, Claudia Hauff, Noriko Kando, Evangelos Kanoulas, Martin Potthast, Benno Stein and Henning Wachsmuth. *Perspectives on Large Language Models for Relevance Judgment*, ICTIR 2023. <span style="color:red">It received the "Best Paper Award."</span> [[Preprint&#8594;]](https://arxiv.org/abs/2304.09161)
