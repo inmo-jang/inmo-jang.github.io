@@ -74,10 +74,6 @@ and [ZooKeeper](http://shop.oreilly.com/product/0636920028901.do).
 
 Between 2013/14 and 2021/22 I co-taught the first year Bachelor course *Web and Database Technology* at TU Delft. I taught the Web technology part, which turned out to be quite a challenge due to the wide variety of skill sets our incoming students possess (some work as Web developers, others have never written a single line of HTML before the start of this course) and the ever-changing nature of web technologies.
 
-The web lecture transcripts (with self-check questions, demo code, assignments, etc.) are available [here](https://chauff.github.io/cse1500-web-transcripts/). They have last been updated in 2022!
-
-Feel free to use the materials with acknowledgement.
-
 ### Information Retrieval
 
 Between 2017/18 and 2021/22 I co-taught the MSc course *Information Retrieval* at TU Delft, which was split along an IR and NLP line. The course setup, slides and group projects for the 2019/20 edition can be found [here](https://github.com/chauff/IN4325).
