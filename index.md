@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Assistant Professor
-subtitle: Korea Aerospace University
+title: Inmo Jang
+subtitle: Assistant Professor at Korea Aerospace University
 ---
 
 ## <img src="../img/news.png" height="50px"> News
