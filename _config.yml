@@ -40,6 +40,8 @@ author:
   name: Inmo Jang
   email: "inmo.jang@kau.ac.kr"
   github: inmo-jang    # eg. daattali
+  linkedin: inmo-jang-01bb599a
+  youtube: inmojang1230
   # twitter: charlottehase   # eg. daattali
   og_image: "/img/inmo_github.png"
 
@@ -49,7 +51,7 @@ footer-links-active:
   facebook: false
   email: true
   twitter: false
-  github: false
+  github: true
   linkedin: true
   youtube: true
   
