@@ -27,8 +27,8 @@ avatar: "/img/inmo_github.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog"
-  Teaching: "teaching"
+  # Blog: "blog"
+  # Teaching: "teaching"
   #Datasets: "datasets"
   Publications: "publications"
  
@@ -37,20 +37,22 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Claudia Hauff
-  email: "claudia.hauff@gmail.com"
-  github: chauff    # eg. daattali
-  twitter: charlottehase   # eg. daattali
-  og_image: "/img/og_claudia.png"
+  name: Inmo Jang
+  email: "inmo.jang@kau.ac.kr"
+  github: inmo-jang    # eg. daattali
+  # twitter: charlottehase   # eg. daattali
+  og_image: "/img/inmo_github.png"
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  facebook: false
   email: true
-  twitter: true
+  twitter: false
   github: false
-  linkedin: false
+  linkedin: true
+  youtube: true
+  
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -67,7 +69,7 @@ footer-links-active:
 #pagination
 gems: [jekyll-paginate]
 paginate: 5
-paginate_path: "blog/page:num"
+paginate_path: "/page:num"
 
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
@@ -86,7 +88,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      comments: false  # add comments to all blog posts
+      comments: false  # add comments to all  posts
   -
     scope:
       path: "" # all files
